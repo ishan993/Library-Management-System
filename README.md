@@ -31,6 +31,8 @@ Librarian adding a book by searching ISBN:
 Librarian searching for books to edit their info:
 ![picture4](https://cloud.githubusercontent.com/assets/14265913/22565500/3287e740-e93d-11e6-8ef2-71a741ca4569.png)
 
+User Dashboard:
+![userdashboard](https://cloud.githubusercontent.com/assets/14265913/22566253/017aab6c-e940-11e6-92b5-20fe8da21f66.png)
 
 ![picture6](https://cloud.githubusercontent.com/assets/14265913/22565498/32748ba0-e93d-11e6-9368-1a9dc4daf3cd.png)
 ![picture5](https://cloud.githubusercontent.com/assets/14265913/22565501/32889082-e93d-11e6-9259-e79237013502.png)
