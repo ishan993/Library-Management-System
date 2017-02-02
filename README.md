@@ -20,3 +20,8 @@ For the patron, we implemented the following functionality:
 6. Daily Email reminders to return a book which is due within from 5 days.
 
 Component Design: 
+![picture6](https://cloud.githubusercontent.com/assets/14265913/22565498/32748ba0-e93d-11e6-9368-1a9dc4daf3cd.png)
+![picture5](https://cloud.githubusercontent.com/assets/14265913/22565501/32889082-e93d-11e6-9259-e79237013502.png)
+![picture4](https://cloud.githubusercontent.com/assets/14265913/22565500/3287e740-e93d-11e6-8ef2-71a741ca4569.png)
+![picture3](https://cloud.githubusercontent.com/assets/14265913/22565502/329143bc-e93d-11e6-9aa7-9948d900959a.png)
+![picture2](https://cloud.githubusercontent.com/assets/14265913/22565499/3287db56-e93d-11e6-8ce9-257055e00812.png)
