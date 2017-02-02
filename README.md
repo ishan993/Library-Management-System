@@ -1,6 +1,6 @@
 # Library-Management-System
 
- The Library Management System provides a simple yet elegant user interface to patrons and librarians, achieved using Google’s Material Design guidelines and principles. 
+ The Library Management System provides a simple yet elegant user interface to patrons and librarians, achieved using Google’s Material Design guidelines and principles, a Model-View-Controller Architecture implement using Spring-boot. 
 
 For the librarian, our application provides the following functionality:
 
