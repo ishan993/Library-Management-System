@@ -31,6 +31,20 @@ For the patron, we implemented the following functionality:
 
 6. Daily Email reminders to return a book which is due within from 5 days.
 
+Important concepts learned throught the project: 
+●	Using Spring Boot to implement concepts such as Dependency Control, Aspect oriented programming, Object-Relational Mapping, Model-View-Controller pattern.
+
+●	Mapping multiplicity between entities to get the required data without writing complex queries.
+
+●	Using Scheduling to schedule time change and return-date checking in the background, making these processes run on separate threads to improve efficiency.
+
+●	Integrating Mail notifications in the project to send alerts and reminders to the user.
+
+●	Using Interceptors for intercepting requests to check them for authorization.
+
+●	Using controller advice AOP concept to provide Exception handling throughout the application without rewriting code.
+
+
 Component Design: 
 ![picture1](https://cloud.githubusercontent.com/assets/14265913/22565836/7dc92b3c-e93e-11e6-9b53-9f4f817c4806.png)
 
