@@ -1,6 +1,6 @@
 # Library-Management-System
 
-##A Spring boot project for CmpE 275 Enterprise Application Development. 
+## A Spring boot project for CmpE 275 Enterprise Application Development. 
 3 people team (Raveen Pereira: front-end, Ankit Rajput & me: backend)
 
 The Library Management System provides a simple yet elegant user interface to patrons and librarians, achieved using Google’s Material Design guidelines and principles, a Model-View-Controller Architecture implemented using Spring-boot. 
